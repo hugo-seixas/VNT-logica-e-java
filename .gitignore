@@ -10,8 +10,6 @@ bin/
 .sts4-cache
 .metadata
 
-*.pdf
-
 # Compiled Java class files
 *.class
 
